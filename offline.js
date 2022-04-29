@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1651227234,
+	"version": 1651229221,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/bg-sheet0.png",
 		"images/kunye-sheet0.png",
 		"images/mendelev-sheet0.png",
+		"images/logo-sheet0.png",
 		"media/dogru.ogg",
 		"media/fenmuzik.ogg",
 		"media/yanlis.ogg",
